@@ -1,0 +1,8 @@
+.thumbnail-item {
+  list-style-type: none;
+  cursor: pointer;
+  opacity: 0.5;
+}
+.active-img-item {
+  opacity: 1;
+}

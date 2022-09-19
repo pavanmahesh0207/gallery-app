@@ -1,0 +1,18 @@
+.app-container {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.thumbnail-container {
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.image-item-container {
+  list-style-type: none;
+}
